@@ -1,0 +1,26 @@
+﻿  parking.c
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(26,9): warning C4013: 'carnum'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(27,11): warning C4013: 'startnum'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(28,12): warning C4013: 'startnum2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(29,9): warning C4013: 'endnum'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(30,10): warning C4013: 'endnum2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(46,8): warning C4013: 'in_min'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(47,9): warning C4013: 'out_min'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(48,11): warning C4013: 'total_min'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(49,7): warning C4013: 'price'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(20): warning C4716: 'menu': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(34): warning C4716: 'input': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(42): warning C4716: 'order': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(50): warning C4716: 'output': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(74): warning C4716: 'error': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(67): warning C4716: 'total': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(87): warning C4716: 'carnum': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(100): warning C4716: 'startnum': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(113): warning C4716: 'startnum2': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(138): warning C4716: 'endnum2': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(144): warning C4716: 'in_min': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(150): warning C4716: 'out_min': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(156): warning C4716: 'total_min': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(162): warning C4716: 'price': 값을 반환해야 합니다.
+C:\Users\KB\Desktop\parking_c\parking_c\parking.c(126): warning C4716: 'endnum': 값을 반환해야 합니다.
+  parking_c.vcxproj -> C:\Users\KB\Desktop\parking_c\Debug\parking_c.exe
